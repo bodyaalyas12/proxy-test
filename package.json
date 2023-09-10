@@ -1,4 +1,4 @@
-{ "homepage": "https://ClydeEroor.github.io/Proxy_band_test",
+{ "homepage": "https://clydeeroor.github.io/proxy_band_test/",
   "name": "proxy_band_test",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "webpack:dev": "webpack-dev-server --mode development --open",
     "webpack:prod": "webpack --mode production",
     "predeploy": "npm run webpack:prod",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
