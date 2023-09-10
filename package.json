@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ClydeEroor.github.io/proxy_band_test/",
+  "homepage": "https://ClydeEroor.github.io/proxy-test/",
   "name": "proxy_band_test",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "eject": "react-scripts eject",
     "webpack:dev": "webpack-dev-server --mode development --open",
     "webpack:prod": "webpack --mode production",
-    "predeploy": "npm run webpack:prod",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
