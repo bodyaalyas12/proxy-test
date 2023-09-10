@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proxy-test/static/css/main.c44a6c71.css",
+    "main.js": "/proxy-test/static/js/main.2b4b523d.js",
+    "index.html": "/proxy-test/index.html",
+    "main.c44a6c71.css.map": "/proxy-test/static/css/main.c44a6c71.css.map",
+    "main.2b4b523d.js.map": "/proxy-test/static/js/main.2b4b523d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44a6c71.css",
+    "static/js/main.2b4b523d.js"
+  ]
+}
