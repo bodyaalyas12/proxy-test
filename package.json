@@ -1,4 +1,5 @@
-{ "homepage": "https://clydeeroor.github.io/proxy_band_test/",
+{
+  "homepage": "https://ClydeEroor.github.io/proxy_band_test/",
   "name": "proxy_band_test",
   "version": "0.1.0",
   "private": true,
